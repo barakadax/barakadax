@@ -1,5 +1,5 @@
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barakadax&layout=donut-vertical&langs_count=20&bg_color=101010&hide_border=true&title_color=ffffff&text_color=ffffff)
-![Stats](https://github-readme-stats.vercel.app/api?username=barakadax&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=101010&hide_border=true&title_color=ffffff&icon_color=ff8c00&text_color=ffffff)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barakadax&layout=donut-vertical&langs_count=20&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=barakadax&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000&hide_border=true&title_color=ffffff&icon_color=ff8c00&text_color=ffffff&include_all_commits=true)
 
 <!--
 **barakadax/barakadax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
